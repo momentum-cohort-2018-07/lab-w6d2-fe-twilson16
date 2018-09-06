@@ -15,3 +15,18 @@ Before you build out any code, take time to plan your calculator. You should thi
 ## TODO: calculator plan
 
 **Write your components with their props and state here.**
+
+Components: 
+App - calc as a whole -
+Input (display) - current state, display input from buttons and complete arithmetic
+buttons - how to display buttons and what they do onclick
+history - push into at end
+
+constructor - takes props, properties of what is being passed and then current state
+and any functions needed with this
+
+on equal = do what? 
+on + - * / . C do what specified
+buttons - 
+
+what views need and how connect? No clears but 
